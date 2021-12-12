@@ -1,0 +1,33 @@
+.main-container-first-page {
+  display: flex;
+  align-content: center;
+  margin-top: calc(30vh - 70px);
+  justify-content: center;
+  height: calc(97vh - 70px);
+}
+
+.logo-round {
+  border-radius: 100%;
+}
+
+.main-container-home-text {
+  margin-left: 15px;
+  margin-top: 25px;
+  display: flex;
+  height: auto;
+  width: 490px;
+  flex-direction: column;
+}
+.main-container-home-text .btn-a {
+  padding: 9px;
+}
+.main-container-home-text h1 {
+  font-size: 4em;
+}
+
+.kyara-logo {
+  border-radius: 100%;
+  height: 20rem;
+}
+
+/*# sourceMappingURL=main.css.map */
